@@ -1,0 +1,11 @@
+channels:
+  - conda-forge
+  - genepattern
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
+  - pulp
+  - jupyter_contrib_nbextensions
+  - jupyter-wysiwyg  
+  
