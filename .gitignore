@@ -1,0 +1,5 @@
+Export_to_PDF.txt
+Slides_Tutorial/*
+Notebooks_Tutorial/.ipynb_checkpoints/*
+Notebooks_Lecture/.ipynb_checkpoints/*
+Solutions_Tutorial/.ipynb_checkpoints/*
