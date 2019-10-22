@@ -65,3 +65,26 @@
 [NotebookApp | INFO] Kernel shutdown: 4f5c4ed5-2e06-4b67-9f6d-157c3ec9a833
 [NotebookApp | INFO] Kernel shutdown: d91d8c86-12f0-4489-8b35-6d765fe62b08
 [NotebookApp | INFO] Kernel shutdown: e34376b5-ba85-4795-846e-328e01505641
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\Chris\Documents\jupyter\DSS1920
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=0b48f87bed1f61afc14284666eddadffdedefa778efd1e70
+[NotebookApp | INFO]  or http://127.0.0.1:8888/?token=0b48f87bed1f61afc14284666eddadffdedefa778efd1e70
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/Chris/AppData/Roaming/jupyter/runtime/nbserver-23152-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=0b48f87bed1f61afc14284666eddadffdedefa778efd1e70
+     or http://127.0.0.1:8888/?token=0b48f87bed1f61afc14284666eddadffdedefa778efd1e70
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 8.00ms referer=http://localhost:8888/tree?token=0b48f87bed1f61afc14284666eddadffdedefa778efd1e70
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 4.00ms referer=http://localhost:8888/notebooks/Notebooks_Lecture/ToyFactoryOpt.ipynb
+[NotebookApp | INFO] Kernel started: cd13c444-5706-46c3-9bc7-0ef5d57f2645
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOpt.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOpt.ipynb
+[NotebookApp | INFO] Interrupted...
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: cd13c444-5706-46c3-9bc7-0ef5d57f2645
