@@ -1,0 +1,67 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\Chris\Documents\jupyter\DSS1920
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=98e0abf9b14ba27af4b0e6ba782feb76300d15f3b4e384b7
+[NotebookApp | INFO]  or http://127.0.0.1:8888/?token=98e0abf9b14ba27af4b0e6ba782feb76300d15f3b4e384b7
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/Chris/AppData/Roaming/jupyter/runtime/nbserver-5048-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=98e0abf9b14ba27af4b0e6ba782feb76300d15f3b4e384b7
+     or http://127.0.0.1:8888/?token=98e0abf9b14ba27af4b0e6ba782feb76300d15f3b4e384b7
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 33.91ms referer=http://localhost:8888/tree?token=98e0abf9b14ba27af4b0e6ba782feb76300d15f3b4e384b7
+[NotebookApp | INFO] Copying Notebooks_Lecture/PassportOpt.ipynb to /Notebooks_Lecture
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 0.00ms referer=http://localhost:8888/notebooks/Notebooks_Lecture/ToyFactoryOpt.ipynb
+[NotebookApp | INFO] Kernel started: bfb652b9-433f-460a-be98-ffe8d22745d9
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 0.00ms referer=http://localhost:8888/notebooks/Notebooks_Tutorial/00_PuLP_Introduction.ipynb
+[NotebookApp | WARNING] Notebook Notebooks_Tutorial/00_PuLP_Introduction.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 4f5c4ed5-2e06-4b67-9f6d-157c3ec9a833
+[NotebookApp | INFO] Starting buffering for 4f5c4ed5-2e06-4b67-9f6d-157c3ec9a833:cb621e5132e44f808adf960713ab2544
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 10.01ms referer=http://localhost:8888/notebooks/Notebooks_Tutorial/00_Overview.ipynb
+[NotebookApp | WARNING] Notebook Notebooks_Tutorial/00_Overview.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: d91d8c86-12f0-4489-8b35-6d765fe62b08
+[NotebookApp | INFO] Starting buffering for d91d8c86-12f0-4489-8b35-6d765fe62b08:58b2243dcc26406e8ab9a7121b81b11e
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOpt.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOpt.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOpt.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOpt.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOpt.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOpt.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOpt.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOpt.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOpt.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOpt.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOpt.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 0.00ms referer=http://localhost:8888/notebooks/Notebooks_Lecture/PassportOpt.ipynb
+[NotebookApp | INFO] Kernel started: e34376b5-ba85-4795-846e-328e01505641
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOpt.ipynb
+[NotebookApp | INFO] Starting buffering for e34376b5-ba85-4795-846e-328e01505641:eaf3a0f6163d4daaaa59227168aa2fd6
+[NotebookApp | INFO] Kernel restarted: e34376b5-ba85-4795-846e-328e01505641
+[NotebookApp | INFO] Restoring connection for e34376b5-ba85-4795-846e-328e01505641:eaf3a0f6163d4daaaa59227168aa2fd6
+[NotebookApp | INFO] Replaying 5 buffered messages
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/PassportOpt.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 4.99ms referer=http://localhost:8888/notebooks/Notebooks_Lecture/ToyFactoryOpt.ipynb
+[NotebookApp | INFO] Starting buffering for bfb652b9-433f-460a-be98-ffe8d22745d9:501b90b2a4a04dfa8880bb17d466286e
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOpt.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOpt.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOpt.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOpt.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOpt.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOpt.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOpt.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOpt.ipynb
+[NotebookApp | INFO] Starting buffering for bfb652b9-433f-460a-be98-ffe8d22745d9:8e35d0af0db444bfba9df6e70ccffe82
+[NotebookApp | INFO] Kernel restarted: bfb652b9-433f-460a-be98-ffe8d22745d9
+[NotebookApp | INFO] Restoring connection for bfb652b9-433f-460a-be98-ffe8d22745d9:8e35d0af0db444bfba9df6e70ccffe82
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOpt.ipynb
+[NotebookApp | INFO] Interrupted...
+[NotebookApp | INFO] Shutting down 4 kernels
+[NotebookApp | INFO] Kernel shutdown: bfb652b9-433f-460a-be98-ffe8d22745d9
+[NotebookApp | INFO] Kernel shutdown: 4f5c4ed5-2e06-4b67-9f6d-157c3ec9a833
+[NotebookApp | INFO] Kernel shutdown: d91d8c86-12f0-4489-8b35-6d765fe62b08
+[NotebookApp | INFO] Kernel shutdown: e34376b5-ba85-4795-846e-328e01505641
