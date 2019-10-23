@@ -88,3 +88,44 @@
 [NotebookApp | INFO] Interrupted...
 [NotebookApp | INFO] Shutting down 1 kernel
 [NotebookApp | INFO] Kernel shutdown: cd13c444-5706-46c3-9bc7-0ef5d57f2645
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\Chris\Documents\jupyter\DSS1920
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=ea430b54b4552a6e716fb98b6ee9695654b7835b5b2141db
+[NotebookApp | INFO]  or http://127.0.0.1:8888/?token=ea430b54b4552a6e716fb98b6ee9695654b7835b5b2141db
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/Chris/AppData/Roaming/jupyter/runtime/nbserver-18008-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=ea430b54b4552a6e716fb98b6ee9695654b7835b5b2141db
+     or http://127.0.0.1:8888/?token=ea430b54b4552a6e716fb98b6ee9695654b7835b5b2141db
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 15.62ms referer=http://localhost:8888/tree?token=ea430b54b4552a6e716fb98b6ee9695654b7835b5b2141db
+[NotebookApp | INFO] Copying Notebooks_Lecture/ToyFactoryOpt.ipynb to /Notebooks_Lecture
+[NotebookApp | WARNING] delete /Notebooks_Lecture/0fb380b21da24621bc77b1a68399fb86-pulp.mps
+[NotebookApp | WARNING] delete /Notebooks_Lecture/7fcee96f553e4f5bb49912f734a83f97-pulp.mps
+[NotebookApp | WARNING] delete /Notebooks_Lecture/135541190838459992b230fa1ce3c429-pulp.mps
+[NotebookApp | WARNING] delete /Notebooks_Lecture/22e6bcfcc196418d9d545c5b3f43c7f0-pulp.mps
+[NotebookApp | WARNING] delete /Notebooks_Lecture/3e16fb146cad429d9dfcc4aed1100d7c-pulp.mps
+[NotebookApp | WARNING] delete /Notebooks_Lecture/4be5df62c8884c8c8e024f6ea4a50f90-pulp.mps
+[NotebookApp | WARNING] delete /Notebooks_Lecture/2e9993ecef984ced9508f72ed42515f6-pulp.mps
+[NotebookApp | WARNING] delete /Notebooks_Lecture/8cff0ec83783471e9bbe9225b88cbd5c-pulp.mps
+[NotebookApp | WARNING] delete /Notebooks_Lecture/aeeb89e2e38d45a6a5908fae4e1f82fb-pulp.mps
+[NotebookApp | WARNING] delete /Notebooks_Lecture/c988fb94251c456f9f9d203acb801908-pulp.mps
+[NotebookApp | WARNING] delete /Notebooks_Lecture/d63b56a89e704bdfa9e4306545d17a9d-pulp.mps
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 0.00ms referer=http://localhost:8888/notebooks/Notebooks_Lecture/BlueRidgeOpt.ipynb
+[NotebookApp | INFO] Kernel started: 0cb8cb76-1dc5-4efa-8517-9f2cd995ac8e
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/BlueRidgeOpt.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/BlueRidgeOpt.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 0.00ms referer=http://localhost:8888/notebooks/Notebooks_Lecture/ToyFactoryOpt.ipynb
+[NotebookApp | INFO] Kernel started: 9210232c-a92f-4037-8a0d-7160addc910d
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOpt.ipynb
+[NotebookApp | INFO] Starting buffering for 0cb8cb76-1dc5-4efa-8517-9f2cd995ac8e:235b44535fd7468b8903403315d8d38e
+[NotebookApp | INFO] Starting buffering for 9210232c-a92f-4037-8a0d-7160addc910d:1d2f82e9a57b48279068ec6965861e61
+[NotebookApp | INFO] Interrupted...
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: 0cb8cb76-1dc5-4efa-8517-9f2cd995ac8e
+[NotebookApp | INFO] Kernel shutdown: 9210232c-a92f-4037-8a0d-7160addc910d
