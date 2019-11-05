@@ -1,0 +1,18 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\Chris\Documents\jupyter\DSS1920
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=ed5bdb9350e464598c57a8aa2dd27022da0ac900fa5fd5be
+[NotebookApp | INFO]  or http://127.0.0.1:8888/?token=ed5bdb9350e464598c57a8aa2dd27022da0ac900fa5fd5be
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/Chris/AppData/Roaming/jupyter/runtime/nbserver-6884-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=ed5bdb9350e464598c57a8aa2dd27022da0ac900fa5fd5be
+     or http://127.0.0.1:8888/?token=ed5bdb9350e464598c57a8aa2dd27022da0ac900fa5fd5be
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 44.88ms referer=http://localhost:8888/tree?token=ed5bdb9350e464598c57a8aa2dd27022da0ac900fa5fd5be
+[NotebookApp | INFO] Interrupted...
+[NotebookApp | INFO] Shutting down 0 kernels
