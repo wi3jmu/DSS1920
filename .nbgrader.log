@@ -16,3 +16,43 @@
 [NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 44.88ms referer=http://localhost:8888/tree?token=ed5bdb9350e464598c57a8aa2dd27022da0ac900fa5fd5be
 [NotebookApp | INFO] Interrupted...
 [NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\Chris\Documents\jupyter\DSS1920
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=f00e3fb408eaf643fa9035b05b8a150579c068ae79151a42
+[NotebookApp | INFO]  or http://127.0.0.1:8888/?token=f00e3fb408eaf643fa9035b05b8a150579c068ae79151a42
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/Chris/AppData/Roaming/jupyter/runtime/nbserver-20156-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=f00e3fb408eaf643fa9035b05b8a150579c068ae79151a42
+     or http://127.0.0.1:8888/?token=f00e3fb408eaf643fa9035b05b8a150579c068ae79151a42
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 41.89ms referer=http://localhost:8888/tree?token=f00e3fb408eaf643fa9035b05b8a150579c068ae79151a42
+[NotebookApp | INFO] Copying Notebooks_Lecture/ToyFactoryOpt.ipynb to /Notebooks_Lecture
+[NotebookApp | WARNING] Notebook Notebooks_Lecture/ToyFactoryOpt.ipynb is not trusted
+[NotebookApp | WARNING] 409 PATCH /api/contents/Notebooks_Lecture/ToyFactoryOpt-Copy1.ipynb (::1): File already exists: Notebooks_Lecture/ToyFactoryOpt.ipynb
+[NotebookApp | WARNING] File already exists: Notebooks_Lecture/ToyFactoryOpt.ipynb
+[NotebookApp | WARNING] 409 PATCH /api/contents/Notebooks_Lecture/ToyFactoryOpt-Copy1.ipynb (::1) 3.99ms referer=http://localhost:8888/tree/Notebooks_Lecture
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 44.88ms referer=http://localhost:8888/notebooks/Notebooks_Lecture/ToyFactoryOptSensitivity.ipynb
+[NotebookApp | INFO] Kernel started: e3db3534-6e71-4cde-809e-2487196e84c3
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOptSensitivity.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOptSensitivity.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOptSensitivity.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOptSensitivity.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOptSensitivity.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOptSensitivity.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOptSensitivity.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOptSensitivity.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOptSensitivity.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOptSensitivity.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOptSensitivity.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOptSensitivity.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOptSensitivity.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOptSensitivity.ipynb
+[NotebookApp | INFO] Interrupted...
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: e3db3534-6e71-4cde-809e-2487196e84c3
