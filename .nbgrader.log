@@ -56,3 +56,80 @@
 [NotebookApp | INFO] Interrupted...
 [NotebookApp | INFO] Shutting down 1 kernel
 [NotebookApp | INFO] Kernel shutdown: e3db3534-6e71-4cde-809e-2487196e84c3
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\Chris\Documents\jupyter\DSS1920
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=958d16c1e3730788d764d01919e5521454f369f9e1aaf44a
+[NotebookApp | INFO]  or http://127.0.0.1:8888/?token=958d16c1e3730788d764d01919e5521454f369f9e1aaf44a
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/Chris/AppData/Roaming/jupyter/runtime/nbserver-7012-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=958d16c1e3730788d764d01919e5521454f369f9e1aaf44a
+     or http://127.0.0.1:8888/?token=958d16c1e3730788d764d01919e5521454f369f9e1aaf44a
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 28.00ms referer=http://localhost:8888/tree?token=958d16c1e3730788d764d01919e5521454f369f9e1aaf44a
+[NotebookApp | WARNING] 404 GET /api/kernels/e3db3534-6e71-4cde-809e-2487196e84c3/channels?session_id=665b0c75be26486c88c13db81ddaa209 (::1): Kernel does not exist: e3db3534-6e71-4cde-809e-2487196e84c3
+[NotebookApp | WARNING] 404 GET /api/kernels/e3db3534-6e71-4cde-809e-2487196e84c3/channels?session_id=665b0c75be26486c88c13db81ddaa209 (::1) 32.01ms referer=None
+[NotebookApp | WARNING] Replacing stale connection: e3db3534-6e71-4cde-809e-2487196e84c3:665b0c75be26486c88c13db81ddaa209
+[NotebookApp | INFO] Copying Notebooks_Lecture/storageProblem.ipynb to /Notebooks_Lecture
+[NotebookApp | WARNING] Notebook Notebooks_Lecture/storageProblem.ipynb is not trusted
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 4.00ms referer=http://localhost:8888/notebooks/Notebooks_Lecture/networkTransshipment.ipynb
+[NotebookApp | INFO] Kernel started: 41768703-9bb4-4dd9-b7e2-fbb8f9758459
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/networkTransshipment.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/networkTransshipment.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/networkTransshipment.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/networkTransshipment.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/networkTransshipment.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/networkTransshipment.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/networkTransshipment.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/networkTransshipment.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/networkTransshipment.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/networkTransshipment.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/networkTransshipment.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/networkTransshipment.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/networkTransshipment.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/networkTransshipment.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/networkTransshipment.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/networkTransshipment.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/networkTransshipment.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 4.00ms referer=http://localhost:8888/notebooks/Notebooks_Lecture/ToyFactoryOpt.ipynb
+[NotebookApp | INFO] Kernel started: bfafbf9b-8fc7-46d2-8f23-d24db988c5a4
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 5.42ms referer=http://localhost:8888/notebooks/Notebooks_Lecture/ToyFactoryOptSensitivity.ipynb
+[NotebookApp | INFO] Kernel started: 8096a387-5913-4bf5-98b0-05f452fc963e
+[NotebookApp | INFO] Starting buffering for bfafbf9b-8fc7-46d2-8f23-d24db988c5a4:c262788f59d448f68bff3ed271daa3b1
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/networkTransshipment.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOptSensitivity.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOptSensitivity.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOptSensitivity.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOptSensitivity.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOptSensitivity.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/ToyFactoryOptSensitivity.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 4.00ms referer=http://localhost:8888/notebooks/Notebooks_Lecture/storageProblem.ipynb
+[NotebookApp | INFO] Kernel started: f5138832-e426-4258-b0b8-5443184b3441
+[NotebookApp | INFO] Copying Notebooks_Lecture/storageProblem.ipynb to /Notebooks_Lecture
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 8.00ms referer=http://localhost:8888/notebooks/Notebooks_Lecture/storageProblemSensitivity.ipynb
+[NotebookApp | INFO] Kernel started: ef486a19-0856-4af8-91e7-09aa3f3ca893
+[NotebookApp | INFO] Starting buffering for ef486a19-0856-4af8-91e7-09aa3f3ca893:ce9a82d0fe84430d875cc5a769fd59c2
+[NotebookApp | INFO] Kernel restarted: ef486a19-0856-4af8-91e7-09aa3f3ca893
+[NotebookApp | INFO] Restoring connection for ef486a19-0856-4af8-91e7-09aa3f3ca893:ce9a82d0fe84430d875cc5a769fd59c2
+[NotebookApp | INFO] Replaying 3 buffered messages
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/storageProblemSensitivity.ipynb
+[NotebookApp | INFO] Starting buffering for ef486a19-0856-4af8-91e7-09aa3f3ca893:ce9a82d0fe84430d875cc5a769fd59c2
+[NotebookApp | INFO] Kernel restarted: ef486a19-0856-4af8-91e7-09aa3f3ca893
+[NotebookApp | INFO] Restoring connection for ef486a19-0856-4af8-91e7-09aa3f3ca893:ce9a82d0fe84430d875cc5a769fd59c2
+[NotebookApp | INFO] Replaying 5 buffered messages
+[NotebookApp | INFO] Starting buffering for ef486a19-0856-4af8-91e7-09aa3f3ca893:ce9a82d0fe84430d875cc5a769fd59c2
+[NotebookApp | INFO] Kernel restarted: ef486a19-0856-4af8-91e7-09aa3f3ca893
+[NotebookApp | INFO] Restoring connection for ef486a19-0856-4af8-91e7-09aa3f3ca893:ce9a82d0fe84430d875cc5a769fd59c2
+[NotebookApp | INFO] Replaying 3 buffered messages
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/storageProblemSensitivity.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/storageProblemSensitivity.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/storageProblemSensitivity.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/storageProblemSensitivity.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/storageProblemSensitivity.ipynb
+[NotebookApp | INFO] Interrupted...
+[NotebookApp | INFO] Shutting down 5 kernels
