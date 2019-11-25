@@ -1,0 +1,34 @@
+GLPK 4.65 - SENSITIVITY ANALYSIS REPORT                                                                         Page   1
+
+Problem:    
+Objective:  Total_Profit_of_Production = 66100 (MAXimum)
+
+   No. Row name     St      Activity         Slack   Lower bound       Activity      Obj coef  Obj value at Limiting
+                                          Marginal   Upper bound          range         range   break point variable
+------ ------------ -- ------------- ------------- -------------  ------------- ------------- ------------- ------------
+     1 Labor        NU    1566.00000        .               -Inf     1440.00000     -16.66667   64000.00000 Tubing
+                                          16.66667    1566.00000     1800.00000          +Inf   70000.00000 Product_Hydro_Lux
+
+     2 Pumps        NU     200.00000        .               -Inf      174.00000    -200.00000   60900.00000 Product_Hydro_Lux
+                                         200.00000     200.00000      207.00000          +Inf   67500.00000 Tubing
+
+     3 Tubing       BS    2712.00000     168.00000          -Inf     2088.00000      -8.33333   43500.00000 Pumps
+                                            .         2880.00000     3200.00000      12.50000  100000.00000 Labor
+
+GLPK 4.65 - SENSITIVITY ANALYSIS REPORT                                                                         Page   2
+
+Problem:    
+Objective:  Total_Profit_of_Production = 66100 (MAXimum)
+
+   No. Column name  St      Activity      Obj coef   Lower bound       Activity      Obj coef  Obj value at Limiting
+                                          Marginal   Upper bound          range         range   break point variable
+------ ------------ -- ------------- ------------- -------------  ------------- ------------- ------------- ------------
+     1 Product_Aqua_Spa
+                    BS     122.00000     350.00000        .            80.00000     300.00000   60000.00000 Labor
+                                            .               +Inf      174.00000     450.00000   78300.00000 Pumps
+
+     2 Product_Hydro_Lux
+                    BS      78.00000     300.00000        .                -Inf     233.33333   60900.00000 Pumps
+                                            .               +Inf      120.00000     350.00000   70000.00000 Labor
+
+End of report
