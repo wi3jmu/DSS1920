@@ -272,3 +272,161 @@
 [NotebookApp | INFO] Kernel shutdown: 4006c95b-a7a6-4e54-a0f2-c3f5ed0949c9
 [NotebookApp | INFO] Kernel shutdown: fef52a6f-f1b1-44ee-9ae7-7c5303a675e2
 [NotebookApp | INFO] Kernel shutdown: ef9c466e-89ea-408e-aaa4-1633987b5ce3
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\Chris\Documents\jupyter\DSS1920
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=d797a144b1ec3f9dbab34d3736f5b78aa7d547ecf206bb49
+[NotebookApp | INFO]  or http://127.0.0.1:8888/?token=d797a144b1ec3f9dbab34d3736f5b78aa7d547ecf206bb49
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/Chris/AppData/Roaming/jupyter/runtime/nbserver-26680-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=d797a144b1ec3f9dbab34d3736f5b78aa7d547ecf206bb49
+     or http://127.0.0.1:8888/?token=d797a144b1ec3f9dbab34d3736f5b78aa7d547ecf206bb49
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 40.89ms referer=http://localhost:8888/tree?token=d797a144b1ec3f9dbab34d3736f5b78aa7d547ecf206bb49
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 3.99ms referer=http://localhost:8888/notebooks/Notebooks_Lecture/BlueRidgeOpt.ipynb
+[NotebookApp | INFO] Kernel started: ab1c71f9-2d55-4ba3-896f-b7453bc73c71
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/BlueRidgeOpt.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/BlueRidgeOpt.ipynb
+[NotebookApp | WARNING] WebSocket ping timeout after 90000 ms.
+[NotebookApp | INFO] Starting buffering for ab1c71f9-2d55-4ba3-896f-b7453bc73c71:1a002d0787c2441a91c13c4bb1e51c87
+[NotebookApp | INFO] Restoring connection for ab1c71f9-2d55-4ba3-896f-b7453bc73c71:1a002d0787c2441a91c13c4bb1e51c87
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/BlueRidgeOpt.ipynb
+[NotebookApp | INFO] Copying Notebooks_Lecture/BlueRidgeOpt.ipynb to /Notebooks_Lecture
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 4.00ms referer=http://localhost:8888/notebooks/Notebooks_Lecture/BlueRidgeOpt-Integer.ipynb
+[NotebookApp | INFO] Kernel started: 5bdee134-a526-47dd-9428-8f2dac52d8db
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/BlueRidgeOpt-Integer.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 4.57ms referer=http://localhost:8888/notebooks/Notebooks_Lecture/FarmerProblem.ipynb
+[NotebookApp | INFO] Kernel started: da641770-3320-46f8-b499-35a6adbc6dac
+[NotebookApp | INFO] Creating new notebook in /Notebooks_Lecture
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 3.86ms referer=http://localhost:8888/notebooks/Notebooks_Lecture/Untitled.ipynb?kernel_name=python3
+[NotebookApp | INFO] Kernel started: b74d0418-5331-49d9-ada4-0579ba6a2b8a
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Untitled.ipynb
+[NotebookApp | INFO] Interrupted...
+[NotebookApp | INFO] Shutting down 4 kernels
+[NotebookApp | INFO] Kernel shutdown: ab1c71f9-2d55-4ba3-896f-b7453bc73c71
+[NotebookApp | INFO] Kernel shutdown: 5bdee134-a526-47dd-9428-8f2dac52d8db
+[NotebookApp | INFO] Kernel shutdown: da641770-3320-46f8-b499-35a6adbc6dac
+[NotebookApp | INFO] Kernel shutdown: b74d0418-5331-49d9-ada4-0579ba6a2b8a
+[LabApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[LabApp | INFO] Loading the validate_assignment nbgrader serverextension
+[LabApp | INFO] Serving notebooks from local directory: C:\Users\Chris\Documents\jupyter\DSS1920
+[LabApp | INFO] The Jupyter Notebook is running at:
+[LabApp | INFO] http://localhost:8888/?token=9f4e091e1134d5be4fa2e962cdde44515fe979510ebd87d8
+[LabApp | INFO]  or http://127.0.0.1:8888/?token=9f4e091e1134d5be4fa2e962cdde44515fe979510ebd87d8
+[LabApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[LabApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/Chris/AppData/Roaming/jupyter/runtime/nbserver-22720-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=9f4e091e1134d5be4fa2e962cdde44515fe979510ebd87d8
+     or http://127.0.0.1:8888/?token=9f4e091e1134d5be4fa2e962cdde44515fe979510ebd87d8
+[LabApp | WARNING] The extension "@agoose77/jupyterlab-attachments" is outdated.
+    
+[LabApp | INFO] Build is up to date
+[LabApp | WARNING] 404 GET /api/contents/Untitled.ipynb?content=0&1575459817361 (::1): No such file or directory: Untitled.ipynb
+[LabApp | WARNING] No such file or directory: Untitled.ipynb
+[LabApp | WARNING] 404 GET /api/contents/Untitled.ipynb?content=0&1575459817361 (::1) 3.99ms referer=http://localhost:8888/lab
+[LabApp | WARNING] 404 GET /api/contents/Untitled3.ipynb?content=0&1575459817360 (::1): No such file or directory: Untitled3.ipynb
+[LabApp | WARNING] No such file or directory: Untitled3.ipynb
+[LabApp | WARNING] 404 GET /api/contents/Untitled3.ipynb?content=0&1575459817360 (::1) 11.97ms referer=http://localhost:8888/lab
+[LabApp | WARNING] 404 GET /api/contents/Untitled4.ipynb?content=0&1575459817361 (::1): No such file or directory: Untitled4.ipynb
+[LabApp | WARNING] No such file or directory: Untitled4.ipynb
+[LabApp | WARNING] 404 GET /api/contents/Untitled4.ipynb?content=0&1575459817361 (::1) 15.97ms referer=http://localhost:8888/lab
+[LabApp | INFO] Kernel started: b9bdb865-5d98-4048-acc4-e12d68870d8e
+[LabApp | INFO] Kernel started: dfab6dc5-beed-41f1-aca1-d588bb4cb138
+[LabApp | INFO] Kernel started: ef40df99-790f-4244-9f22-d90d3323c4e2
+[LabApp | INFO] Saving file at /Notebooks_Lecture/BlueRidgeOpt.ipynb
+[LabApp | INFO] Saving file at /Notebooks_Lecture/BlueRidgeOpt.ipynb
+[LabApp | INFO] Interrupted...
+[LabApp | INFO] Shutting down 3 kernels
+[LabApp | INFO] Kernel shutdown: b9bdb865-5d98-4048-acc4-e12d68870d8e
+[LabApp | INFO] Kernel shutdown: dfab6dc5-beed-41f1-aca1-d588bb4cb138
+[LabApp | INFO] Kernel shutdown: ef40df99-790f-4244-9f22-d90d3323c4e2
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\Chris\Documents\jupyter\DSS1920
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=7016e34b8600da0a35dda5caf9eebf61a5353901f2920f26
+[NotebookApp | INFO]  or http://127.0.0.1:8888/?token=7016e34b8600da0a35dda5caf9eebf61a5353901f2920f26
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/Chris/AppData/Roaming/jupyter/runtime/nbserver-12812-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=7016e34b8600da0a35dda5caf9eebf61a5353901f2920f26
+     or http://127.0.0.1:8888/?token=7016e34b8600da0a35dda5caf9eebf61a5353901f2920f26
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 63.83ms referer=http://localhost:8888/tree?token=7016e34b8600da0a35dda5caf9eebf61a5353901f2920f26
+[NotebookApp | INFO] Copying Notebooks_Lecture/FarmerProblem.ipynb to /Notebooks_Lecture
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 12.97ms referer=http://localhost:8888/notebooks/Notebooks_Lecture/FarmerProblemDiscreteFirstStage.ipynb
+[NotebookApp | INFO] Kernel started: 706070d1-bc25-48ca-a76f-cc87b2a02a3b
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/FarmerProblemDiscreteFirstStage.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/FarmerProblemDiscreteFirstStage.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 7.98ms referer=http://localhost:8888/notebooks/Notebooks_Lecture/DiscreteNewsvendor.ipynb
+[NotebookApp | INFO] Kernel started: 54da24b1-5f6a-4aaa-99c9-02cc7cee8ad8
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 5.99ms referer=http://localhost:8888/notebooks/Notebooks_Lecture/BlueRidgeOpt-Integer.ipynb
+[NotebookApp | INFO] Kernel started: ef91a133-059e-4172-939d-36f592efce80
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/FarmerProblemDiscreteFirstStage.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/FarmerProblemDiscreteFirstStage.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/FarmerProblemDiscreteFirstStage.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/FarmerProblemDiscreteFirstStage.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/FarmerProblemDiscreteFirstStage.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/FarmerProblemDiscreteFirstStage.ipynb
+[NotebookApp | INFO] Starting buffering for ef91a133-059e-4172-939d-36f592efce80:6ecffe0a36014a5c871fffce5422d1de
+[NotebookApp | INFO] Starting buffering for 706070d1-bc25-48ca-a76f-cc87b2a02a3b:e20efffcfc854afda38f67dad0d4f43e
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 4.99ms referer=http://localhost:8888/notebooks/Notebooks_Lecture/FarmerProblemDiscreteFirstStage.ipynb
+[NotebookApp | INFO] Starting buffering for 706070d1-bc25-48ca-a76f-cc87b2a02a3b:3ebeca4a27b7476784dc198abd1047b6
+[NotebookApp | INFO] Kernel restarted: 706070d1-bc25-48ca-a76f-cc87b2a02a3b
+[NotebookApp | INFO] Restoring connection for 706070d1-bc25-48ca-a76f-cc87b2a02a3b:3ebeca4a27b7476784dc198abd1047b6
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/FarmerProblemDiscreteFirstStage.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/FarmerProblemDiscreteFirstStage.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/FarmerProblemDiscreteFirstStage.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/FarmerProblemDiscreteFirstStage.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/FarmerProblemDiscreteFirstStage.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/FarmerProblemDiscreteFirstStage.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/FarmerProblemDiscreteFirstStage.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/FarmerProblemDiscreteFirstStage.ipynb
+[NotebookApp | INFO] Copying Notebooks_Lecture/FarmerProblemDiscreteFirstStage.ipynb to /Notebooks_Lecture
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 6.98ms referer=http://localhost:8888/notebooks/Notebooks_Lecture/FarmerProblemDiscreteSecondStage.ipynb
+[NotebookApp | INFO] Kernel started: dd34fdee-737a-432e-bf8a-895d8f34588f
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/FarmerProblemDiscreteSecondStage.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/FarmerProblemDiscreteSecondStage.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/FarmerProblemDiscreteSecondStage.ipynb
+[NotebookApp | INFO] Starting buffering for dd34fdee-737a-432e-bf8a-895d8f34588f:9fdc54d2330f4cb2809d51c2a57afe15
+[NotebookApp | INFO] Starting buffering for 706070d1-bc25-48ca-a76f-cc87b2a02a3b:3ebeca4a27b7476784dc198abd1047b6
+[NotebookApp | INFO] Interrupted...
+[NotebookApp | INFO] Shutting down 4 kernels
+[NotebookApp | INFO] Kernel shutdown: 706070d1-bc25-48ca-a76f-cc87b2a02a3b
+[NotebookApp | INFO] Kernel shutdown: 54da24b1-5f6a-4aaa-99c9-02cc7cee8ad8
+[NotebookApp | INFO] Kernel shutdown: ef91a133-059e-4172-939d-36f592efce80
+[NotebookApp | INFO] Kernel shutdown: dd34fdee-737a-432e-bf8a-895d8f34588f
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\Chris\Documents\jupyter\DSS1920
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=4e9ad0f4fb0d77f28e973c446f414685ffa017f774dbbc9b
+[NotebookApp | INFO]  or http://127.0.0.1:8888/?token=4e9ad0f4fb0d77f28e973c446f414685ffa017f774dbbc9b
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/Chris/AppData/Roaming/jupyter/runtime/nbserver-22076-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=4e9ad0f4fb0d77f28e973c446f414685ffa017f774dbbc9b
+     or http://127.0.0.1:8888/?token=4e9ad0f4fb0d77f28e973c446f414685ffa017f774dbbc9b
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 13.96ms referer=http://localhost:8888/tree?token=4e9ad0f4fb0d77f28e973c446f414685ffa017f774dbbc9b
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 4.99ms referer=http://localhost:8888/notebooks/Notebooks_Lecture/FarmerProblemDiscreteSecondStage.ipynb
+[NotebookApp | INFO] Kernel started: 9b03c0ac-c052-41ab-bad7-7b54ba2fb146
+[NotebookApp | INFO] Interrupted...
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 9b03c0ac-c052-41ab-bad7-7b54ba2fb146
