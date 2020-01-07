@@ -430,3 +430,177 @@
 [NotebookApp | INFO] Interrupted...
 [NotebookApp | INFO] Shutting down 1 kernel
 [NotebookApp | INFO] Kernel shutdown: 9b03c0ac-c052-41ab-bad7-7b54ba2fb146
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\Chris\Documents\jupyter\DSS1920
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=579d9356f99aca669f19aebffdfbc4f26e03100bbc8ac870
+[NotebookApp | INFO]  or http://127.0.0.1:8888/?token=579d9356f99aca669f19aebffdfbc4f26e03100bbc8ac870
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/Chris/AppData/Roaming/jupyter/runtime/nbserver-21560-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=579d9356f99aca669f19aebffdfbc4f26e03100bbc8ac870
+     or http://127.0.0.1:8888/?token=579d9356f99aca669f19aebffdfbc4f26e03100bbc8ac870
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 42.88ms referer=http://localhost:8888/tree?token=579d9356f99aca669f19aebffdfbc4f26e03100bbc8ac870
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 1.99ms referer=http://localhost:8888/tree
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 1.99ms referer=http://localhost:8888/tree
+[NotebookApp | INFO] Copying Notebooks_Lecture/Sudoku.ipynb to /Notebooks_Lecture
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 8.98ms referer=http://localhost:8888/notebooks/Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Kernel started: a211ae12-8426-423a-8634-afd12aba9321
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 4.99ms referer=http://localhost:8888/notebooks/Notebooks_Lecture/FarmerProblem.ipynb
+[NotebookApp | INFO] Kernel started: 7ea3bd20-5f95-4cc5-840d-4d8d8de502d9
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Kernel interrupted: a211ae12-8426-423a-8634-afd12aba9321
+[NotebookApp | INFO] Kernel interrupted: a211ae12-8426-423a-8634-afd12aba9321
+[NotebookApp | INFO] Kernel interrupted: a211ae12-8426-423a-8634-afd12aba9321
+[NotebookApp | INFO] Kernel interrupted: a211ae12-8426-423a-8634-afd12aba9321
+[NotebookApp | INFO] Kernel interrupted: a211ae12-8426-423a-8634-afd12aba9321
+[NotebookApp | INFO] Kernel interrupted: a211ae12-8426-423a-8634-afd12aba9321
+[NotebookApp | INFO] Kernel interrupted: a211ae12-8426-423a-8634-afd12aba9321
+[NotebookApp | INFO] Kernel interrupted: a211ae12-8426-423a-8634-afd12aba9321
+[NotebookApp | INFO] Starting buffering for a211ae12-8426-423a-8634-afd12aba9321:fb95cfb755dd46bc8d41b839aaf83366
+[NotebookApp | INFO] Kernel restarted: a211ae12-8426-423a-8634-afd12aba9321
+[NotebookApp | INFO] Restoring connection for a211ae12-8426-423a-8634-afd12aba9321:fb95cfb755dd46bc8d41b839aaf83366
+[NotebookApp | INFO] Replaying 3 buffered messages
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Starting buffering for a211ae12-8426-423a-8634-afd12aba9321:fb95cfb755dd46bc8d41b839aaf83366
+[NotebookApp | INFO] Kernel restarted: a211ae12-8426-423a-8634-afd12aba9321
+[NotebookApp | INFO] Restoring connection for a211ae12-8426-423a-8634-afd12aba9321:fb95cfb755dd46bc8d41b839aaf83366
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Starting buffering for 7ea3bd20-5f95-4cc5-840d-4d8d8de502d9:8a95de40da2d481699aefde83c29ac63
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 5.98ms referer=http://localhost:8888/notebooks/Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 3.99ms referer=http://localhost:8888/notebooks/Notebooks_Lecture/PassportOpt.ipynb
+[NotebookApp | WARNING] Notebook Notebooks_Lecture/PassportOpt.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: ce5ac7a0-9823-420a-ab90-7c18385e9455
+[NotebookApp | INFO] Starting buffering for ce5ac7a0-9823-420a-ab90-7c18385e9455:45b505ba690f45678168d0ae716d9f41
+[NotebookApp | INFO] Starting buffering for a211ae12-8426-423a-8634-afd12aba9321:fb95cfb755dd46bc8d41b839aaf83366
+[NotebookApp | INFO] Kernel restarted: a211ae12-8426-423a-8634-afd12aba9321
+[NotebookApp | INFO] Restoring connection for a211ae12-8426-423a-8634-afd12aba9321:fb95cfb755dd46bc8d41b839aaf83366
+[NotebookApp | INFO] Replaying 3 buffered messages
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Interrupted...
+[NotebookApp | INFO] Shutting down 3 kernels
+[NotebookApp | INFO] Kernel shutdown: a211ae12-8426-423a-8634-afd12aba9321
+[NotebookApp | INFO] Kernel shutdown: 7ea3bd20-5f95-4cc5-840d-4d8d8de502d9
+[NotebookApp | INFO] Kernel shutdown: ce5ac7a0-9823-420a-ab90-7c18385e9455
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\Chris\Documents\jupyter\DSS1920
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=38491f1ee789516d7bb626f93a954c86ecc3b7c8ffd72ca1
+[NotebookApp | INFO]  or http://127.0.0.1:8888/?token=38491f1ee789516d7bb626f93a954c86ecc3b7c8ffd72ca1
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/Chris/AppData/Roaming/jupyter/runtime/nbserver-21572-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=38491f1ee789516d7bb626f93a954c86ecc3b7c8ffd72ca1
+     or http://127.0.0.1:8888/?token=38491f1ee789516d7bb626f93a954c86ecc3b7c8ffd72ca1
+[NotebookApp | WARNING] 404 GET /api/kernels/a211ae12-8426-423a-8634-afd12aba9321/channels?session_id=fb95cfb755dd46bc8d41b839aaf83366 (::1): Kernel does not exist: a211ae12-8426-423a-8634-afd12aba9321
+[NotebookApp | ERROR] Could not open static file ''
+[NotebookApp | WARNING] 404 GET /api/kernels/a211ae12-8426-423a-8634-afd12aba9321/channels?session_id=fb95cfb755dd46bc8d41b839aaf83366 (::1) 37.90ms referer=None
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 2.99ms referer=http://localhost:8888/tree?token=38491f1ee789516d7bb626f93a954c86ecc3b7c8ffd72ca1
+[NotebookApp | WARNING] Replacing stale connection: a211ae12-8426-423a-8634-afd12aba9321:fb95cfb755dd46bc8d41b839aaf83366
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 2.99ms referer=http://localhost:8888/notebooks/Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Kernel started: 0680d2c3-bd20-4733-a176-c1cd8e8606e5
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Kernel interrupted: 0680d2c3-bd20-4733-a176-c1cd8e8606e5
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Starting buffering for 0680d2c3-bd20-4733-a176-c1cd8e8606e5:e7b46f38bf2146db860807df9efcde65
+[NotebookApp | INFO] Kernel restarted: 0680d2c3-bd20-4733-a176-c1cd8e8606e5
+[NotebookApp | INFO] Restoring connection for 0680d2c3-bd20-4733-a176-c1cd8e8606e5:e7b46f38bf2146db860807df9efcde65
+[NotebookApp | INFO] Replaying 3 buffered messages
+[NotebookApp | INFO] Starting buffering for 0680d2c3-bd20-4733-a176-c1cd8e8606e5:e7b46f38bf2146db860807df9efcde65
+[NotebookApp | INFO] Kernel restarted: 0680d2c3-bd20-4733-a176-c1cd8e8606e5
+[NotebookApp | INFO] Restoring connection for 0680d2c3-bd20-4733-a176-c1cd8e8606e5:e7b46f38bf2146db860807df9efcde65
+[NotebookApp | INFO] Replaying 5 buffered messages
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Starting buffering for 0680d2c3-bd20-4733-a176-c1cd8e8606e5:e7b46f38bf2146db860807df9efcde65
+[NotebookApp | INFO] Kernel restarted: 0680d2c3-bd20-4733-a176-c1cd8e8606e5
+[NotebookApp | INFO] Restoring connection for 0680d2c3-bd20-4733-a176-c1cd8e8606e5:e7b46f38bf2146db860807df9efcde65
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Starting buffering for 0680d2c3-bd20-4733-a176-c1cd8e8606e5:e7b46f38bf2146db860807df9efcde65
+[NotebookApp | INFO] Kernel restarted: 0680d2c3-bd20-4733-a176-c1cd8e8606e5
+[NotebookApp | INFO] Restoring connection for 0680d2c3-bd20-4733-a176-c1cd8e8606e5:e7b46f38bf2146db860807df9efcde65
+[NotebookApp | INFO] Replaying 3 buffered messages
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Starting buffering for 0680d2c3-bd20-4733-a176-c1cd8e8606e5:e7b46f38bf2146db860807df9efcde65
+[NotebookApp | INFO] Kernel restarted: 0680d2c3-bd20-4733-a176-c1cd8e8606e5
+[NotebookApp | INFO] Restoring connection for 0680d2c3-bd20-4733-a176-c1cd8e8606e5:e7b46f38bf2146db860807df9efcde65
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Starting buffering for 0680d2c3-bd20-4733-a176-c1cd8e8606e5:e7b46f38bf2146db860807df9efcde65
+[NotebookApp | INFO] 302 GET / (::1) 1.99ms
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 4.99ms referer=http://localhost:8888/tree?
+[NotebookApp | WARNING] 404 GET /static/components/react/react-dom.production.min.js (::1) 4.99ms referer=http://localhost:8888/notebooks/Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Discarding 3 buffered messages for 0680d2c3-bd20-4733-a176-c1cd8e8606e5:e7b46f38bf2146db860807df9efcde65
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Starting buffering for 0680d2c3-bd20-4733-a176-c1cd8e8606e5:7d52573a69ea4924bba4ab75af742f17
+[NotebookApp | INFO] Kernel restarted: 0680d2c3-bd20-4733-a176-c1cd8e8606e5
+[NotebookApp | INFO] Restoring connection for 0680d2c3-bd20-4733-a176-c1cd8e8606e5:7d52573a69ea4924bba4ab75af742f17
+[NotebookApp | INFO] Replaying 4 buffered messages
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Saving file at /Notebooks_Lecture/Backpack2D.ipynb
+[NotebookApp | INFO] Starting buffering for 0680d2c3-bd20-4733-a176-c1cd8e8606e5:7d52573a69ea4924bba4ab75af742f17
+[NotebookApp | INFO] Interrupted...
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 0680d2c3-bd20-4733-a176-c1cd8e8606e5
